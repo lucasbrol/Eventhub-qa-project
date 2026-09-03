@@ -98,3 +98,6 @@ This creates a basic traceability relationship between requirements and testing 
 **Requirement → Test Scenario → Test Case → Test Execution**
 
 This approach helps ensure that the defined requirements are covered by the QA process.
+
+
+Note: TS17 and TS18 were intentionally excluded because their expected behavior was not explicitly defined in the available requirements.
