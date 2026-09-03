@@ -143,7 +143,7 @@ Both defects were followed through the Jira workflow and successfully retested a
 
 Detailed execution results:
 
-📁 [`Test Execution Report`](test-execution/execution-report.md)
+📁 [Test Execution Report](test-execution/test-execution.md)
 
 ---
 
